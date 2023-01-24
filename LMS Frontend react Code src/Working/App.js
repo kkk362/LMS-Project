@@ -91,7 +91,6 @@ export default function App()
     <div className="inner">
       <Routes>
         <Route path ="/" element={<Login/>}/>
-        
         <Route path="/SignUp"  element={<SignUp/>}/>
         <Route path="/Dashboard"  element={<Dashboard/>}/>
         <Route path="/MyDetails"  element={<MyDetails/>}/>
