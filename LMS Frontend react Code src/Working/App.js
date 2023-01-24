@@ -23,6 +23,7 @@ export default function App()
       Leave Management System
       </Link>
       <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
+          
         <ul className="navbar-nav ml-auto">
         <li className="nav-item">
             <Link className="nav-link" to={'/'}>
@@ -41,47 +42,6 @@ export default function App()
           Admin
             </Link>
           </li>
-
-         
-
-          {/* <li className="nav-item">
-            <Link className="nav-link" to={'/ApplyLeave'}>
-          ApplyLeave
-            </Link>
-          </li>
-
-          <li className="nav-item">
-            <Link className="nav-link" to={'/Dashboard'}>
-          Dashboard
-            </Link>
-          </li>
-
-          <li className="nav-item">
-            <Link className="nav-link" to={'/MyDetails'}>
-          MyDetails
-            </Link>
-          </li>
-
-          <li className="nav-item">
-            <Link className="nav-link" to={'/MyManager'}>
-          MyManager
-            </Link>
-          </li>
-
-          <li className="nav-item">
-            <Link className="nav-link" to={'/MyPreviousLeaves'}>
-          MyPreviousLeaves
-            </Link>
-          </li>
-
-          <li className="nav-item">
-            <Link className="nav-link" to={'/AppliedLeaves'}>
-          AppliedLeaves
-            </Link>
-          </li> */}
-
-         
-
         </ul>
       </div>
     </div>
