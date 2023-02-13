@@ -67,7 +67,6 @@ export default class AppliedLeaves extends Component {
                 <tr>
                <td>{a.leave_Id}</td>
                <td>{a.emp_Id}</td>
-               {/* <td>{a.man_Id}</td> */}
                <td>{a.no_OfDays}</td>
                <td>{a.start_Date}</td>
                <td>{a.end_Date}</td>
