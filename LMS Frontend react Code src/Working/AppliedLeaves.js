@@ -49,7 +49,6 @@ export default class AppliedLeaves extends Component {
               <tr>
               <th>Leave ID</th>
               <th>Emp ID</th>
-              {/* <th>Manager ID </th> */}
               <th>No Of Days</th>
               <th>Start Date </th>
               <th>End Date</th>
