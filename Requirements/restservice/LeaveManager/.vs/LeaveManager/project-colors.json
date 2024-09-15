@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2daf515-2d9c-4dbf-ae75-db73d0332524": {
+      "ProjectGuid": "f2daf515-2d9c-4dbf-ae75-db73d0332524",
+      "DisplayName": "LeaveManager",
+      "ColorIndex": 0
+    },
+    "8c99a991-f6fc-4b7f-9e3d-08ed204f1679": {
+      "ProjectGuid": "8c99a991-f6fc-4b7f-9e3d-08ed204f1679",
+      "DisplayName": "LMSBackend",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

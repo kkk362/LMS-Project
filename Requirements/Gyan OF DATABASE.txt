@@ -1,0 +1,19 @@
+Leave detailsDB 
+if any foreign key , then insertion not possible 
+
+if not then insert is possible 
+=============================================================
+EmployeeDB
+if any foreign key , then insertion not possible 
+
+if not then insert is possible 
+===========================================================
+
+But if Foreign key in AppliedLeaveDB from LeaveDetailsDB
+
+then insertion in LeaveDetails Table is possible 
+
+=========================================================s
+similarly if foreign key in ManagerDb from EmpployeeDB
+
+then insertion in Employee table is Possible

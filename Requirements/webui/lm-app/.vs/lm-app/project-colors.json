@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2300e313-d894-4ac7-9599-b25e4a7d00e8": {
+      "ProjectGuid": "2300e313-d894-4ac7-9599-b25e4a7d00e8",
+      "DisplayName": "lm-app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

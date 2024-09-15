@@ -1,0 +1,13 @@
+-- change this to your team id
+USE FTPXX;
+
+-- The CEO
+INSERT INTO employee VALUES(1000);
+
+-- Two Managers
+INSERT INTO employee VALUES(2000);
+INSERT INTO employee VALUES(2001);
+
+-- Two Employees
+INSERT INTO employee VALUES(3000);
+INSERT INTO employee VALUES(3001);
